@@ -1,0 +1,22 @@
+.settings {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.container > .button {
+    margin-right: 10px;
+}
+
+.label > p {
+    margin: 0 0 10px 5px;
+}
+
+.group {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+}
+
+.group:nth-child(2) {
+    justify-content: space-around;
+}
