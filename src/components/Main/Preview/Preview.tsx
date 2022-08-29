@@ -4,7 +4,7 @@ import "./Preview.module.css";
 import Settings from "./Settings/Settings";
 import ImageHolder from "./ImageHolder/ImageHolder";
 import { IASCII, ISettings } from "../../../types/types";
-import { getASCII, getImageData } from "../../../utils/ImageManager";
+import { getASCII, getImageData } from "./../../../utils/ImageManager";
 
 interface PreviewProps {
     readonly src: string;

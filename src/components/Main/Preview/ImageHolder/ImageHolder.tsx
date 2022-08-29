@@ -3,7 +3,7 @@ import Classes from "./ImageHolder.module.css";
 import "./ImageHolder.module.css";
 import { IASCII, IScale } from "../../../../types/types";
 import { resizeText } from "../../../../utils/Common";
-import { getScale } from "../../../../utils/ImageManager";
+import { getScale } from "./../../../../utils/ImageManager";
 import { AppContext, IAppContext } from "../../../../context";
 
 interface ImageHolderProps {

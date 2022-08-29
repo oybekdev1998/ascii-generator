@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Classes from "./Settings.module.css";
 import "./Settings.module.css";
 import { ButtonType, IOption, ISettings, Quality } from "../../../../types/types";
-import { density } from "../../../../utils/ImageManager";
+import { density } from "./../../../../utils/ImageManager";
 import Checkbox from "../../../UI/Checkbox/Checkbox";
 import Button from "../../../UI/Button/Button";
 import Select from "../../../UI/Select/Select";

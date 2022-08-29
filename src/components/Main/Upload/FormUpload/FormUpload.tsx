@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Classes from "./FormUpload.module.css";
 import "./FormUpload.module.css";
-import { readImage } from "../../../../utils/ImageManager";
+import { readImage } from "./../../../../utils/ImageManager";
 
 interface FormUploadProps {
     readonly setSrc: React.Dispatch<React.SetStateAction<string | null>>;
