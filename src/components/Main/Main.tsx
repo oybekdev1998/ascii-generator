@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Classes from "./Main.module.css";
 import "./Main.module.css";
-import Upload from "./Upload/Upload";
+import Upload from './Upload/Upload';
 import Preview from "./Preview/Preview";
 
 const Main = () => {
