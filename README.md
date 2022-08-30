@@ -1,13 +1,13 @@
-## 🪐 ASCII ART GENERATOR
+## 📄 ASCII ART GENERATOR
 
-### 🐧 Links
+### 🐟 Links
 
 * `Repository` [https://github.com/oybekdev1998/ascii-generator/](https://github.com/oybekdev1998/ascii-generator/)
 * `Project`[]()
 * `oybekdev1998`[https://github.com/oybekdev1998](https://github.com/oybekdev1998)
 
 ***
-### 🐶 Available Scripts and Commands
+### 🐋 Available Scripts and Commands
 ```
  # Install
   npm i                # install dependencies
