@@ -1,7 +1,7 @@
 ## 🪐 ASCII ART GENERATOR
-***
+
 ### 🐧 Links
-***
+
 * `Repository` [https://github.com/oybekdev1998/ascii-generator/](https://github.com/oybekdev1998/ascii-generator/)
 * `Project`[]()
 * `oybekdev1998`[https://github.com/oybekdev1998](https://github.com/oybekdev1998)
