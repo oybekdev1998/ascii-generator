@@ -54,7 +54,7 @@ npm run build            # builds the app for production
 * CSS Flexbox
 * CSS Multi Columns
 * Стилизация скроллбара
-***
+
 ### 🐣 Порядок импортов
 ___
 * Библиотеки
